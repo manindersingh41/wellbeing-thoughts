@@ -1,0 +1,16 @@
+.dash-main {
+    height: 100vh;
+}
+.left-side-bar {
+  display: block;
+  height: 100vh;
+  background-color:rgb(63, 63, 63);
+  
+}
+
+.left-side-bar h3{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10px;
+}
